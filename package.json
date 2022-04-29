@@ -1,0 +1,27 @@
+{
+  "name": "fizz_buzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsarget/FizzBuzz_Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsarget/FizzBuzz_Api/issues"
+  },
+  "homepage": "https://github.com/alexsarget/FizzBuzz_Api#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
