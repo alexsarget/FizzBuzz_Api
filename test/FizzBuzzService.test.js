@@ -1,5 +1,5 @@
 const FizzBuzzService=require("./../lib/services/FizzBuzzService");
-const ExplorerController=require("./../lib/controllers/ExplorerController")
+const ExplorerController=require("./../lib/controllers/ExplorerController");
 
 
 describe("Test Para ExplorerController",()=>{
@@ -36,4 +36,4 @@ describe("Test Para ExplorerController",()=>{
         expect(explorersInNumber).toBe("FIZZBUZZ");
     });
 
-})
+});
